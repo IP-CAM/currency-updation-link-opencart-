@@ -1,0 +1,1 @@
+<siteurl>/index.php?route=common/updatecurrency
